@@ -1,0 +1,16 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.btn {
+    -fx-background-color: transparent; /* Makes background transparent */
+    -fx-border-color: transparent;    /* Removes border */
+}
+.btn:hover {
+    -fx-scale-x: 1.1; /* Enlarge button width */
+    -fx-scale-y: 1.1; /* Enlarge button height */
+}
+
+.selection_btn {
+    -fx-background-color: transparent; /* Makes background transparent */
+    -fx-border-color: transparent;    /* Removes border */
+}
+
